@@ -1,4 +1,4 @@
-[Image alt](https://github.com/LIL-JABA/LIL-JABA/raw/main/image/image.png)
+[Image alt](https://github.com/LIL-JABA/LIL-JABA/raw/main/image/lilpidor.png)
 
 Okay, I pull up, hop out at the after party
 You and all your friends, yeah, they love to get naughty
