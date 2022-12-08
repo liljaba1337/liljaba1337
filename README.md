@@ -4,14 +4,14 @@ official guthub of the most incorruptible, objective, authoritative, intelligent
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 06 December 2022
+From: 30 November 2022 - To: 07 December 2022
 
-Total Time: 2 hrs 9 mins
+Total Time: 2 hrs 28 mins
 
-Python   1 hr 37 mins    >>>>>>>>>>>>>>>>>>>------   75.26 %
-JSON     15 mins         >>>----------------------   12.30 %
-C++      11 mins         >>-----------------------   08.99 %
-Other    3 mins          >------------------------   03.01 %
+Python   1 hr 26 mins    >>>>>>>>>>>>>>>----------   58.13 %
+C++      41 mins         >>>>>>>------------------   28.15 %
+JSON     15 mins         >>>----------------------   10.74 %
+Other    3 mins          >------------------------   02.63 %
 ```
 
 <!--END_SECTION:waka-->
