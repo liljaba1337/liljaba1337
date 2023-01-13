@@ -4,16 +4,16 @@ official guthub of the most incorruptible, objective, authoritative, intelligent
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Total Time: 5 hrs 29 mins
+Total Time: 5 hrs 55 mins
 
-Python       2 hrs 11 mins   >>>>>>>>>>---------------   39.99 %
-C#           1 hr 50 mins    >>>>>>>>-----------------   33.60 %
-Delphi       1 hr 20 mins    >>>>>>-------------------   24.47 %
-JSON         5 mins          -------------------------   01.64 %
-Roff         0 secs          -------------------------   00.17 %
-Git Config   0 secs          -------------------------   00.11 %
+Python       2 hrs 23 mins   >>>>>>>>>>---------------   40.46 %
+C#           2 hrs 4 mins    >>>>>>>>>----------------   35.11 %
+Delphi       1 hr 20 mins    >>>>>>-------------------   22.64 %
+JSON         5 mins          -------------------------   01.52 %
+Roff         0 secs          -------------------------   00.15 %
+Git Config   0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
