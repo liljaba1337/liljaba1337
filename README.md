@@ -17,3 +17,5 @@ Git Config   0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="https://www.codewars.com/users/LIL-JABA"><img src="https://www.codewars.com/users/LIL-JABA/badges/small"></a>
