@@ -4,16 +4,15 @@ official github of the most incorruptible, objective, authoritative, intelligent
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2023 - To: 29 March 2023
+From: 23 March 2023 - To: 30 March 2023
 
-Total Time: 3 hrs 12 mins
+Total Time: 2 hrs 17 mins
 
-Python       2 hrs 25 mins   >>>>>>>>>>>>>>>>>>>------   75.63 %
-Java         20 mins         >>>----------------------   10.53 %
-JSON         11 mins         >------------------------   05.91 %
-JavaScript   8 mins          >------------------------   04.44 %
-C++          4 mins          >------------------------   02.40 %
-Other        1 min           -------------------------   01.01 %
+Python       1 hr 41 mins    >>>>>>>>>>>>>>>>>>-------   73.79 %
+Java         20 mins         >>>>---------------------   14.74 %
+JavaScript   8 mins          >>-----------------------   06.21 %
+C++          4 mins          >------------------------   03.36 %
+Other        1 min           -------------------------   01.36 %
 ```
 
 <!--END_SECTION:waka-->
