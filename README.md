@@ -5,15 +5,15 @@ official github of the most incorruptible, objective, authoritative, intelligent
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
-Total Time: 5 hrs 24 mins
+Total Time: 5 hrs 30 mins
 
-C#               2 hrs 35 mins   >>>>>>>>>>>>-------------   47.84 %
-Python           1 hr 21 mins    >>>>>>-------------------   25.09 %
-Binary           42 mins         >>>----------------------   13.04 %
-XML              21 mins         >>-----------------------   06.73 %
-Swift            10 mins         >------------------------   03.11 %
+C#               2 hrs 48 mins   >>>>>>>>>>>>>------------   50.94 %
+Python           1 hr 16 mins    >>>>>>-------------------   23.11 %
+Binary           31 mins         >>-----------------------   09.50 %
+XML              21 mins         >>-----------------------   06.60 %
+Assembly         19 mins         >------------------------   05.76 %
 ```
 
 <!--END_SECTION:waka-->
