@@ -1,5 +1,6 @@
-
-> official github of the most incorruptible, objective, authoritative, intelligent, fearless and honest person in the world
+<h1 align="center">
+  official github of the most incorruptible, objective, authoritative, intelligent, fearless and honest person in the world
+</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=lil-jaba&show_icons=true&theme=dark" />
 
 <!--START_SECTION:waka-->
