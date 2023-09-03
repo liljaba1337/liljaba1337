@@ -1,6 +1,6 @@
-official github of the most incorruptible, objective, authoritative, intelligent, fearless and honest person in the world
 
-<p align="center"><i>"If it compiles, it's good; if it boots up, it's perfect." (Linus Torvalds)</i></p>
+> official github of the most incorruptible, objective, authoritative, intelligent, fearless and honest person in the world
+<img src="https://github-readme-stats.vercel.app/api?username=lil-jaba&show_icons=true&theme=dark" />
 
 <!--START_SECTION:waka-->
 
