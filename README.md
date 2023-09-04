@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2023 - To: 02 September 2023
+From: 27 August 2023 - To: 03 September 2023
 
-Total Time: 3 hrs 50 mins
+Total Time: 7 hrs 16 mins
 
-C#            2 hrs 51 mins   >>>>>>>>>>>>>>>>>>>------   74.43 %
-Prolog        49 mins         >>>>>--------------------   21.53 %
-Python        7 mins          >------------------------   03.31 %
-Objective-C   0 secs          -------------------------   00.36 %
-XML           0 secs          -------------------------   00.27 %
+C#            4 hrs 23 mins   >>>>>>>>>>>>>>>----------   60.45 %
+Prolog        1 hr 28 mins    >>>>>--------------------   20.29 %
+JSON          59 mins         >>>----------------------   13.59 %
+XML           12 mins         >------------------------   02.76 %
+Python        11 mins         >------------------------   02.70 %
 ```
 
 <!--END_SECTION:waka-->
