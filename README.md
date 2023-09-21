@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-Total Time: 7 hrs 11 mins
+Total Time: 6 hrs 39 mins
 
-C#            4 hrs 27 mins   >>>>>>>>>>>>>>>----------   61.87 %
-XML           1 hr 55 mins    >>>>>>>------------------   26.71 %
-Objective-C   14 mins         >------------------------   03.31 %
-SWIG          13 mins         >------------------------   03.13 %
-Prolog        10 mins         >------------------------   02.54 %
+C#            4 hrs 1 min     >>>>>>>>>>>>>>>----------   60.39 %
+XML           1 hr 48 mins    >>>>>>>------------------   27.20 %
+Objective-C   14 mins         >------------------------   03.58 %
+SWIG          13 mins         >------------------------   03.39 %
+Prolog        10 mins         >------------------------   02.75 %
 ```
 
 <!--END_SECTION:waka-->
