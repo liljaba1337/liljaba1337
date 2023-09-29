@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Total Time: 1 hr 59 mins
+Total Time: 5 hrs 17 mins
 
-C#            1 hr 9 mins     >>>>>>>>>>>>>>-----------   57.74 %
-Python        30 mins         >>>>>>-------------------   25.44 %
-XML           19 mins         >>>>---------------------   15.99 %
-Objective-C   1 min           -------------------------   00.84 %
+C#            4 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>----   84.03 %
+Python        30 mins         >>-----------------------   09.61 %
+XML           19 mins         >>-----------------------   06.04 %
+Objective-C   1 min           -------------------------   00.32 %
 ```
 
 <!--END_SECTION:waka-->
