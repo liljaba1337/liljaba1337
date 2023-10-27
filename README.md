@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2023 - To: 25 October 2023
+From: 19 October 2023 - To: 26 October 2023
 
-Total Time: 3 hrs 12 mins
+Total Time: 2 hrs 45 mins
 
-C#       1 hr 17 mins    >>>>>>>>>>---------------   40.41 %
-C++      1 hr 10 mins    >>>>>>>>>----------------   36.52 %
-Binary   33 mins         >>>>---------------------   17.48 %
-Python   6 mins          >------------------------   03.30 %
-SWIG     4 mins          >------------------------   02.13 %
+C#       1 hr 17 mins    >>>>>>>>>>>>-------------   47.06 %
+C++      43 mins         >>>>>>>------------------   26.11 %
+Binary   33 mins         >>>>>--------------------   20.36 %
+Python   6 mins          >------------------------   03.84 %
+SWIG     4 mins          >------------------------   02.48 %
 ```
 
 <!--END_SECTION:waka-->
