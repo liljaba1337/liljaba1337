@@ -1,7 +1,8 @@
 <h1 align="center">
   official github of the most incorruptible, objective, authoritative, intelligent, fearless and honest person in the world
 </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=lil-jaba&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=lil-jaba&theme=tokyonight&count_private=true&line_height=20&hide_border=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-jaba&layout=compact&theme=tokyonight&count_private=true&hide_border=true"/>
 
 <!--START_SECTION:waka-->
 
