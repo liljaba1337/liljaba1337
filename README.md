@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 2 hrs 46 mins
+Total Time: 3 hrs 48 mins
 
-C#         1 hr 33 mins    >>>>>>>>>>>>>>-----------   55.72 %
-Binary     34 mins         >>>>>--------------------   20.38 %
-Python     33 mins         >>>>>--------------------   19.98 %
-C++        6 mins          >------------------------   03.84 %
-Text       0 secs          -------------------------   00.06 %
+Python     1 hr 35 mins    >>>>>>>>>>---------------   41.94 %
+C#         1 hr 33 mins    >>>>>>>>>>---------------   40.66 %
+Binary     34 mins         >>>>---------------------   14.96 %
+Text       5 mins          >------------------------   02.31 %
+JSON       0 secs          -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
