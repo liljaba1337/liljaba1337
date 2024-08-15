@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-Total Time: 4 hrs 43 mins
+Total Time: 4 hrs 17 mins
 
-C#                    1 hr 22 mins    >>>>>>>------------------   29.21 %
-Java                  1 hr 21 mins    >>>>>>>------------------   28.94 %
-Binary                30 mins         >>>----------------------   10.86 %
-Gradle                20 mins         >>-----------------------   07.28 %
-Kotlin                20 mins         >>-----------------------   07.07 %
+Java                  1 hr 21 mins    >>>>>>>>-----------------   31.79 %
+Python                1 hr 9 mins     >>>>>>>------------------   26.83 %
+C#                    22 mins         >>-----------------------   08.69 %
+Gradle                20 mins         >>-----------------------   07.99 %
+Kotlin                20 mins         >>-----------------------   07.76 %
 ```
 
 <!--END_SECTION:waka-->
