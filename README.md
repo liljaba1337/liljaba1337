@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2024 - To: 25 August 2024
+From: 19 August 2024 - To: 26 August 2024
 
-Total Time: 3 hrs 22 mins
+Total Time: 4 hrs 11 mins
 
-Python                1 hr 9 mins     >>>>>>>>>----------------   34.18 %
-C#                    53 mins         >>>>>>>------------------   26.54 %
-Text                  33 mins         >>>>---------------------   16.70 %
-Java                  17 mins         >>-----------------------   08.49 %
-Git Config            10 mins         >------------------------   05.36 %
+Python                1 hr 25 mins    >>>>>>>>-----------------   33.97 %
+C#                    53 mins         >>>>>--------------------   21.37 %
+Text                  35 mins         >>>>---------------------   14.09 %
+Markdown              31 mins         >>>----------------------   12.43 %
+Java                  17 mins         >>-----------------------   06.84 %
 ```
 
 <!--END_SECTION:waka-->
