@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2024 - To: 30 August 2024
+From: 24 August 2024 - To: 31 August 2024
 
-Total Time: 3 hrs 46 mins
+Total Time: 4 hrs 40 mins
 
-Python                1 hr 12 mins    >>>>>>>>-----------------   32.20 %
-C#                    1 hr 4 mins     >>>>>>>------------------   28.57 %
-Markdown              31 mins         >>>----------------------   13.87 %
-Java                  17 mins         >>-----------------------   07.60 %
-INI                   11 mins         >------------------------   05.10 %
+Python                2 hrs 14 mins   >>>>>>>>>>>>-------------   48.10 %
+C#                    1 hr 4 mins     >>>>>>-------------------   23.07 %
+Markdown              31 mins         >>>----------------------   11.20 %
+Java                  17 mins         >>-----------------------   06.14 %
+INI                   11 mins         >------------------------   04.12 %
 ```
 
 <!--END_SECTION:waka-->
