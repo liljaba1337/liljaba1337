@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 7 hrs 51 mins
+Total Time: 7 hrs 43 mins
 
-C#       4 hrs 51 mins   >>>>>>>>>>>>>>>----------   61.92 %
-Binary   2 hrs 59 mins   >>>>>>>>>>---------------   38.08 %
+C#       4 hrs 46 mins   >>>>>>>>>>>>>>>----------   61.87 %
+Binary   2 hrs 56 mins   >>>>>>>>>>---------------   38.13 %
 HTML     0 secs          -------------------------   00.00 %
 ```
 
