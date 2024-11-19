@@ -7,11 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Total Time: 11 mins
+Total Time: 22 mins
 
-JSON   11 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+JSON   11 mins         >>>>>>>>>>>>>------------   50.94 %
+C#     11 mins         >>>>>>>>>>>>-------------   49.06 %
 ```
 
 <!--END_SECTION:waka-->
