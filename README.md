@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2024 - To: 22 December 2024
+From: 16 December 2024 - To: 23 December 2024
 
-Total Time: 53 mins
+Total Time: 1 hr 27 mins
 
-C#       49 mins         >>>>>>>>>>>>>>>>>>>>>>>--   91.82 %
-Binary   4 mins          >>-----------------------   08.18 %
+C#       1 hr 11 mins    >>>>>>>>>>>>>>>>>>>>>----   82.19 %
+Binary   15 mins         >>>>---------------------   17.81 %
 ```
 
 <!--END_SECTION:waka-->
