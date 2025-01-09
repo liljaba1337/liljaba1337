@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-Total Time: 2 hrs 31 mins
+Total Time: 2 hrs 50 mins
 
-Binary   1 hr 32 mins    >>>>>>>>>>>>>>>----------   60.98 %
-C#       59 mins         >>>>>>>>>>---------------   39.02 %
+Binary   1 hr 36 mins    >>>>>>>>>>>>>>-----------   56.38 %
+C#       1 hr 14 mins    >>>>>>>>>>>--------------   43.62 %
 ```
 
 <!--END_SECTION:waka-->
