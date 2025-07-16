@@ -9,15 +9,15 @@ you can contact me at main@sendmeyourfeet.pics
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2025 - To: 13 July 2025
+From: 07 July 2025 - To: 14 July 2025
 
-Total Time: 4 hrs 50 mins
+Total Time: 5 hrs 4 mins
 
-C#       2 hrs 18 mins   >>>>>>>>>>>>-------------   47.57 %
-JSON     1 hr 34 mins    >>>>>>>>-----------------   32.65 %
-Binary   56 mins         >>>>>--------------------   19.55 %
-Other    0 secs          -------------------------   00.13 %
-Text     0 secs          -------------------------   00.10 %
+C#           2 hrs 37 mins   >>>>>>>>>>>>>------------   51.52 %
+JSON         1 hr 36 mins    >>>>>>>>-----------------   31.76 %
+Binary       42 mins         >>>----------------------   13.95 %
+XAML         3 mins          -------------------------   01.00 %
+XML          1 min           -------------------------   00.63 %
 ```
 
 <!--END_SECTION:waka-->
