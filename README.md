@@ -9,7 +9,7 @@ you can contact me at main@sendmeyourfeet.pics
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 12 July 2025 - To: 19 July 2025
 
 Total Time: 1 hr 53 mins
 
