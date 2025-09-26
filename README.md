@@ -9,15 +9,15 @@ you can contact me at main@sendmeyourfeet.pics
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-Total Time: 3 hrs 2 mins
+Total Time: 2 hrs 35 mins
 
-C            1 hr 58 mins    >>>>>>>>>>>>>>>>---------   64.96 %
-C++          28 mins         >>>>---------------------   15.50 %
-JavaScript   26 mins         >>>>---------------------   14.66 %
-CMake        5 mins          >------------------------   02.96 %
-Python       2 mins          -------------------------   01.42 %
+C            1 hr 58 mins    >>>>>>>>>>>>>>>>>>>------   76.12 %
+C++          28 mins         >>>>>--------------------   18.17 %
+CMake        5 mins          >------------------------   03.47 %
+Python       2 mins          -------------------------   01.67 %
+JSON         0 secs          -------------------------   00.55 %
 ```
 
 <!--END_SECTION:waka-->
