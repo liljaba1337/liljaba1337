@@ -9,14 +9,11 @@ you can contact me at main@sendmeyourfeet.pics
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2025 - To: 09 October 2025
+From: 03 October 2025 - To: 10 October 2025
 
-Total Time: 7 mins
+Total Time: 0 secs
 
-C++                                5 mins          >>>>>>>>>>>>>>>>>>-------   71.30 %
-CMake                              1 min           >>>>>>-------------------   24.67 %
-JSON                               0 secs          >------------------------   02.22 %
-Microsoft Visual Studio Solution   0 secs          -------------------------   01.81 %
+C++   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
