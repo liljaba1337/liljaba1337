@@ -9,14 +9,15 @@ you can contact me at gh@sybau.moe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2025 - To: 22 November 2025
+From: 16 November 2025 - To: 23 November 2025
 
-Total Time: 1 hr 37 mins
+Total Time: 2 hrs 32 mins
 
-C#       1 hr 8 mins     >>>>>>>>>>>>>>>>>>-------   70.30 %
-Binary   20 mins         >>>>>--------------------   20.89 %
-XML      5 mins          >------------------------   05.68 %
-XAML     3 mins          >------------------------   03.12 %
+C#           1 hr 8 mins     >>>>>>>>>>>--------------   45.09 %
+TypeScript   39 mins         >>>>>>-------------------   25.82 %
+Binary       20 mins         >>>----------------------   13.40 %
+Python       14 mins         >>-----------------------   09.55 %
+XML          5 mins          >------------------------   03.64 %
 ```
 
 <!--END_SECTION:waka-->
