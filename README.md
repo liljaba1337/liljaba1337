@@ -9,11 +9,11 @@ you can contact me at gh@sybau.moe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Total Time: 11 mins
+Total Time: 4 mins
 
-Python   11 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C++   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
