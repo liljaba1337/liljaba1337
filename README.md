@@ -9,15 +9,15 @@ you can contact me at gh@sybau.moe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2026 - To: 23 March 2026
+From: 17 March 2026 - To: 24 March 2026
 
-Total Time: 4 hrs 7 mins
+Total Time: 5 hrs 40 mins
 
-TypeScript   3 hrs                 >>>>>>>>>>>>>>>>>>-------   72.98 %
-Java         43 mins               >>>>---------------------   17.71 %
-HTML         12 mins               >------------------------   05.17 %
-CSS          6 mins                >------------------------   02.62 %
-JavaScript   2 mins                -------------------------   00.82 %
+TypeScript   3 hrs 20 mins         >>>>>>>>>>>>>>>----------   58.90 %
+Java         1 hr 38 mins          >>>>>>>------------------   28.87 %
+CSS          25 mins               >>-----------------------   07.37 %
+HTML         12 mins               >------------------------   03.76 %
+JavaScript   2 mins                -------------------------   00.60 %
 ```
 
 <!--END_SECTION:waka-->
