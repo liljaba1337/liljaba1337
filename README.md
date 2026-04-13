@@ -9,14 +9,15 @@ you can contact me at gh@sybau.moe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2026 - To: 11 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
-Total Time: 42 mins
+Total Time: 49 mins
 
-Python   33 mins               >>>>>>>>>>>>>>>>>>>>-----   78.29 %
-C++      6 mins                >>>>---------------------   15.84 %
-C        1 min                 >------------------------   03.10 %
-CMake    1 min                 >------------------------   02.77 %
+Python   33 mins               >>>>>>>>>>>>>>>>>--------   68.26 %
+C++      6 mins                >>>----------------------   13.81 %
+Java     4 mins                >>-----------------------   09.26 %
+HTML     1 min                 >------------------------   03.55 %
+C        1 min                 >------------------------   02.70 %
 ```
 
 <!--END_SECTION:waka-->
