@@ -9,13 +9,14 @@ you can contact me at gh@sybau.moe
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2026 - To: 11 May 2026
+From: 05 May 2026 - To: 12 May 2026
 
-Total Time: 3 hrs 21 mins
+Total Time: 3 hrs 56 mins
 
-C#       2 hrs 41 mins         >>>>>>>>>>>>>>>>>>>>-----   80.49 %
-Binary   23 mins               >>>----------------------   11.58 %
-C++      15 mins               >>-----------------------   07.93 %
+C#       2 hrs 41 mins         >>>>>>>>>>>>>>>>>--------   68.46 %
+Java     35 mins               >>>>---------------------   14.94 %
+Binary   23 mins               >>-----------------------   09.85 %
+C++      15 mins               >>-----------------------   06.75 %
 ```
 
 <!--END_SECTION:waka-->
